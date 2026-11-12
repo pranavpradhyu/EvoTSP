@@ -1,0 +1,8 @@
+# Optional "Blueprint": lets Render create the service from this file.
+services:
+  - type: web
+    name: evotsp
+    runtime: docker
+    plan: free
+    healthCheckPath: /
+    autoDeploy: true

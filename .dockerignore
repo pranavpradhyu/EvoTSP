@@ -1,0 +1,7 @@
+.git
+.gitignore
+evotsp
+evotsp.exe
+build/
+*.log
+README.md
