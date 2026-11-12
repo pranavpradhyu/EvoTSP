@@ -1,0 +1,12 @@
+# Compiled binary
+evotsp
+evotsp.exe
+
+# CMake build output
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# Logs / OS cruft
+*.log
+.DS_Store
